@@ -1,0 +1,1 @@
+/Users/lei/.config/nvim/init.vim

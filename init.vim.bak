@@ -37,6 +37,12 @@ map <C-j> <C-w>j
 map <C-k> <C-w>k
 map <C-l> <C-w>l
 
+" tab thing
+set shiftwidth=4
+set expandtab
+set tabstop=4
+
+
 " delete all trailing whitespace on save
 autocmd BufWritePre * %s/\s\+$//e
 
